@@ -1,0 +1,39 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header, main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    
+}
+h2{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 60px;
+}
+.nav_list{
+    text-decoration: none;
+    list-style: none;
+   }
+.nav_item{
+    border: 1px solid black;
+    padding: 0 80px;
+}
+.nav_link{
+    color: red;
+}
+footer{
+    text-align: center;
+    margin-top: 100px;
+}
+    

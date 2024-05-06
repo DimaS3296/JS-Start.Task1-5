@@ -1,0 +1,67 @@
+body {
+    background-color: bisque;
+
+
+}
+
+h1 {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 15px;
+
+}
+
+.main {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 200px;
+}
+
+.link {
+    margin-top: 100px;
+}
+
+
+.codearea {
+    background-color: rgb(53, 49, 49);
+    display: block;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    width: 60%;
+}
+
+.codetext {
+    color: aliceblue;
+}
+
+.dublicateArea {
+    border: solid black 1px;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    width: 60%;
+}
+
+.Clickbackarea {
+    margin-bottom: 20px;
+}
+
+
+
+.Clickback {
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+}
+
+footer {
+    text-align: center;
+}

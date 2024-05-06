@@ -1,0 +1,116 @@
+body {
+    background-color: bisque;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 15px;
+
+}
+
+.mainT3 {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-right: 30px;
+}
+
+.section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.codearea {
+    background-color: rgb(53, 49, 49);
+    display: block;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    width: 60%;
+}
+
+.codetext {
+    color: aliceblue;
+}
+
+.container1 {
+    background-color: rgb(56, 54, 54);
+    height: 110px;
+    width: 110px;
+    border-radius: 30px;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px 0;
+}
+
+.circle1 {
+    background-color: black;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin-bottom: 5px;
+}
+
+#trafficlights,
+.circle3.green {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background-color: rgb(162, 194, 162);
+    box-shadow: 0 0 3px rgb(15, 167, 15);
+
+}
+
+
+#trafficlightsMiddle,
+.circle3.red {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background-color: rgb(105, 39, 39);
+    box-shadow: 0 0 3px rgb(105, 39, 39);
+}
+
+#trafficlightsBottom,
+.circle3.yellow {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background-color: rgb(119, 119, 67);
+    box-shadow: 0 0 3px rgb(119, 119, 67);
+}
+
+
+
+.container2,
+.container3 {
+    background-color: rgb(56, 54, 54);
+    height: 300px;
+    width: 110px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0;
+    flex-direction: column;
+    margin-top: 20px;
+    /* margin-bottom: 10px;*/
+
+}
+
+.Clickback {
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+}
+
+footer {
+    text-align: center;
+}

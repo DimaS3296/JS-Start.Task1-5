@@ -1,0 +1,38 @@
+body{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+.Clickback{
+  text-decoration: none;  
+  color: black;
+  margin-left: 20px;
+}
+.mainT1{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    background-color: rgb(53, 49, 49);
+    padding: 40px;
+    margin-top: 120px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 120px;
+   
+
+}
+.messageT1{
+    color: aliceblue;
+    text-align: center;
+    
+}
+
+footer{
+    text-align: center;
+    margin-top: 350px;
+    
+}
+    
+
